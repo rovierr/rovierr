@@ -5,7 +5,7 @@
 
 ![私の失敗](https://github-readme-stats.vercel.app/api?username=rovierr&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovierr&layout=compact&theme=radical)
 
 
 
