@@ -5,3 +5,7 @@
 
 ![私の失敗](https://github-readme-stats.vercel.app/api?username=rovierr&show_icons=true&theme=radical)
 
+
+<center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcrapi&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=dracula&hide_border=true%22%3E</p></center>
+<center><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srcrapi&show_icons=true&theme=dracula&count_private=true%22%3E</p></center>
+
