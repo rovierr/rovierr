@@ -1,7 +1,7 @@
 # 皆さん、ここが私が自分の仕事をする場所です、私はここでオンラインになることはめったにありません
 
 
-![Image](https://assetsio.reedpopcdn.com/omori%20header.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp)
+![Image](https://i.pinimg.com/originals/33/70/36/337036424915bb651dfdd11410251f8e.jpg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rovierrr)
 
