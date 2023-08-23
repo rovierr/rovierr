@@ -1,7 +1,7 @@
 # 皆さん、ここが私が自分の仕事をする場所です、私はここでオンラインになることはめったにありません
 
 
-![Image](https://pm1.aminoapps.com/8599/4892d2112fb1896492b86de8cc00806e859bd35br1-388-388v2_uhq.jpg)
+![Image](https://gifdb.com/images/high/omori-hugging-sunny-6r581gi2zm3vhhg5.gif)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rovierrr)
 
