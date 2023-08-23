@@ -1,7 +1,7 @@
 # 皆さん、ここが私が自分の仕事をする場所です、私はここでオンラインになることはめったにありません
 
 
-![Image]([https://pm1.aminoapps.com/8599/4892d2112fb1896492b86de8cc00806e859bd35br1-388-388v2_uhq.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fomori&psig=AOvVaw14YciMFLsykDzWVDxdcXwH&ust=1692841810599000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCZwqjV8YADFQAAAAAdAAAAABAE))
+![Image](https://pm1.aminoapps.com/8599/4892d2112fb1896492b86de8cc00806e859bd35br1-388-388v2_uhq.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fomori&psig=AOvVaw14YciMFLsykDzWVDxdcXwH&ust=1692841810599000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCZwqjV8YADFQAAAAAdAAAAABAE)](https://assetsio.reedpopcdn.com/omori%20header.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp))
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rovierrr)
 
