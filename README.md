@@ -24,7 +24,7 @@
       <img src="https://skillicons.dev/icons?i=c" alt="C site Link">
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="/resources/terminal.png" alt="Linux Bash info" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux Bash info" width="50" height="50">
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code link">
