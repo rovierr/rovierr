@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovierr&layout=compact&theme=radical)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/470772466780995605)](https://discord.com/users/470772466780995605)
+[![Discord Presence](https://lanyard.cnrad.dev/api/470772466780995605?idleMessage=Just%20doing%20my%20things)](https://discord.com/users/470772466780995605)
 
 <div align="center">
   <h1 align="left">Interests</h1>
