@@ -19,7 +19,10 @@
     </a>
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=python" alt="Python site link">
-    </a>   
+    </a>  
+    <a href="https://www.arduino.cc/">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino site link">
+    </a>
   </p>
 </div>
 
