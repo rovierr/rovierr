@@ -1,30 +1,4 @@
-<div align="center">
-  <h1 align="left">Interests</h1>
-  
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="/resources/archlinux.png" alt="Arch Linux Link" width="20%" height="20%"> </a>
-</div>
-
-<div align="center">
-  <h1 align="left">Some tools and languages</h1>
-
-  <p>
-    <a href="https://www.learn-c.org/">
-      <img src="https://skillicons.dev/icons?i=c" alt="C site Link">
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux Bash info" width="50" height="50">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code link">
-    </a>
-    <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python site link">
-    </a>  
-    <a href="https://www.arduino.cc/">
-        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino site link">
-    </a>
-  </p>
-</div>
+## Infos
 
 <div align="center">
 
