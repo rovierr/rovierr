@@ -3,7 +3,7 @@ Hello, I call Bruno better known as "rovier" and I am a lover of the C and C++ l
 
 
 ## Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rovierr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunomourr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rovierr) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rovierr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunomourr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rovierrr) 
 
 ## Projetos e afins
 
