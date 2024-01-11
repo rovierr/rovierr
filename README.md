@@ -23,4 +23,5 @@ I'm currently learning more complex things for malware development to test compa
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rovierr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rovierr&label=Curiosos&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
