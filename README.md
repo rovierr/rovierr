@@ -1,6 +1,8 @@
 # Sobre mim:
 Hello, I call Bruno better known as "rovier" and I am a lover of the C and C++ (Learning :|) languages, due to the different things they have shown me, I am currently delving deeper into my studies in C and will soon start putting my hands to work.
 
+![:rovierr](https://count.getloli.com/get/@:rovierr)
+
 
 ## Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rovierr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mourrb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rovierrr) 
