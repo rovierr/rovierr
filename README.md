@@ -16,7 +16,7 @@ I'm currently learning more complex things for malware development to test compa
 # Areas de especialização:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/-python-12979D?style=for-the-badge&logo=python&logoColor=white)
 # Estatisticas Github:
-![](https://github-readme-stats.vercel.app/api?username=rovierr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovierr&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=dracula&hide_border=true" alt="Github Linguagem mais usada"></p>
 
 
 ### Coisas aleatorias de desenvolvedores:
