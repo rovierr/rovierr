@@ -8,9 +8,10 @@
 ![](https://img.shields.io/badge/-GNU/Linux-red)
 ![](https://img.shields.io/badge/-Low_Level_Programming-blue)
 ![](https://img.shields.io/badge/-OpenGL-yellow)
+![](https://img.shields.io/badge/-Vulkan-orange)
 
 ## Future Projects
-- [❌] - Make a program using OpenGL (Text Editor for example)
+- [❌] - Make a program using OpenGL and Vulkan (Text Editor for example)
 - [❌] - A network controller
 - [❌] - Games
 ********
