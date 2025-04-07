@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/-Low_Level_Programming-blue)
 ![](https://img.shields.io/badge/-OpenGL-yellow)
 
+## Future Projects
+- [❌] - Make a program using OpenGL (Text Editor for example)
+- [❌] - A network controller
+- [❌] - Games
 ********
 
 <details>
