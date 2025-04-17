@@ -2,19 +2,13 @@
 - I study programmation for 8 years
 - I like to play video games (RPG or Souls Like)
 
-## Thinks I like
+## Things I like
 
 ![](https://img.shields.io/badge/-C-grey)
 ![](https://img.shields.io/badge/-GNU/Linux-red)
 ![](https://img.shields.io/badge/-Low_Level_Programming-blue)
 ![](https://img.shields.io/badge/-OpenGL-yellow)
 ![](https://img.shields.io/badge/-Vulkan-orange)
-
-## Future Projects
-- [❌] - Make a program using OpenGL and Vulkan (Text Editor for example)
-- [❌] - A network controller
-- [❌] - Games
-********
 
 <details>
   <summary>Github Stats</summary>
