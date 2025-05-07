@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/-Low_Level_Programming-blue)
 ![](https://img.shields.io/badge/-OpenGL-yellow)
 ![](https://img.shields.io/badge/-Vulkan-orange)
+![](https://img.shields.io/badge/-PHP-purple)
 
 <details>
   <summary>Github Stats</summary>
